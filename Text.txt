@@ -1,0 +1,7 @@
+The divs move along the ruler from 3.5 to 3.1.
+Both divs moved to the right but the red one is second.
+Both divs float to the left and the red is the first one.
+When resizing the browser, the top box moves the text, but the two divs on the bottom are fixed in position and text.
+Test div 1 is on the right test div 2 is on the left.
+The length of the divs both stack on top of each other because their width is very long horizontally.
+It soft wraps the text allowing you to read it based on the size.
